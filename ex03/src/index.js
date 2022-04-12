@@ -6,7 +6,7 @@ class Person {
   }
 
   show() {
-    console.log(this.display);
+    console.log(Person.display());
   }
 }
 // Only change code above this line
